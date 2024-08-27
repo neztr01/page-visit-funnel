@@ -1,6 +1,6 @@
 # Page Visits Funnel Project
 ## Overview
-> This project analyzes the user funnel of an e-commerce website to identify where users drop off in the purchasing process. By merging and analyzing data from different stages (visits, cart, checkout, and purchase), we can identify the conversion rates and the weakest points in the funnel. The analysis provides actionable insights to improve the user experience and potentially increase conversion rates.
+> This project is part of the Codecademy's Path. Data Science: Machine Learning / NLP Specialist. This project analyzes the user funnel of an e-commerce website to identify where users drop off in the purchasing process. By merging and analyzing data from different stages (visits, cart, checkout, and purchase), we can identify the conversion rates and the weakest points in the funnel. The analysis provides actionable insights to improve the user experience and potentially increase conversion rates.
 
 ## Dataset
 > The project uses four CSV files representing different stages of the user journey on the website:
@@ -12,20 +12,20 @@
 
 ## Objectives
 1. Data Inspection:
-- Load and inspect the datasets to understand the structure and content.
+    - Load and inspect the datasets to understand the structure and content.
 
 2. Merging Datasets:
-- Merge the datasets to create a comprehensive view of the user journey across the funnel.
+    - Merge the datasets to create a comprehensive view of the user journey across the funnel.
 
 3. Funnel Analysis:
-- Calculate the conversion rates at each stage of the funnel:
-    - Visitors who add items to the cart.
-    - Users who proceed to checkout after adding items to the cart.
-    - Users who complete the purchase after reaching the checkout.
-- Identify the percentage of users who drop off at each stage.
+    - Calculate the conversion rates at each stage of the funnel:
+        - Visitors who add items to the cart.
+        - Users who proceed to checkout after adding items to the cart.
+        - Users who complete the purchase after reaching the checkout.
+    - Identify the percentage of users who drop off at each stage.
 
 4. Actionable Insights:
-- Analyze the data to provide recommendations on how to reduce drop-off rates and improve conversion.
+    - Analyze the data to provide recommendations on how to reduce drop-off rates and improve conversion.
 
 ## Key Metrics
 - **Percentage of Users Not Adding to Cart**: Calculate the percentage of visitors who do not add items to their cart.
